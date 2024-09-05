@@ -1,1 +1,1 @@
-# OK
+# struktūriniai darbai
